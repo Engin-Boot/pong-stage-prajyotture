@@ -6,7 +6,7 @@ What happens when ball travels and bounces?
 
 ## Acceptance Criteria
 
-### Scenario:When ball missed by opposition and does not bounce back?
+### Scenario:The ball is missed by opposition and does not bounce back
 
   Given -The game is running properly and smoothely
 
