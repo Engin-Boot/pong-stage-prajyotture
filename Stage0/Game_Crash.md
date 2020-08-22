@@ -16,4 +16,4 @@ What happens when the Game Crashes?
   Then -Force Quit the app and ask user to
   restart only after unloading or clearing the cache
 
-### -
+### 
