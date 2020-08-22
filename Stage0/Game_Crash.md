@@ -18,6 +18,8 @@ What happens when the Game Crashes?
   
 ### Scenario:Game Crash due to drivers
 
-Give-The pong game is strting to load
-When-THe drivers or software version of game is not compatible to the current mode
-Then-Ask permission to update the driver and after update restart the game again
+  Give-The pong game is starting to load
+
+  When-THe drivers or software version of game is not compatible to the current mode
+
+  Then-Ask permission to update the driver and after update restart the game again
