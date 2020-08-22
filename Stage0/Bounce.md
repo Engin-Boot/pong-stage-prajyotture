@@ -8,7 +8,7 @@ What happens when ball travels and bounces?
 
 ### Scenario:The ball is missed by opposition and does not bounce back
 
-  Given -The game is running properly and smoothely
+  Given -The game is running properly and smoothly
 
   When -After hitting the ball to the opposition
   the ball does not bounce back to the initial player
