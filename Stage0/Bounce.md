@@ -15,7 +15,7 @@ What happens when ball travels and bounces?
 
   Then -Increment player 1 count by 1
   
-### Scenario:Kepping track of the score count
+### Scenario:Keeping track of the score count
 
 Give:The game is error free and running properly
 
