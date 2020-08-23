@@ -22,4 +22,3 @@ Give:The game is error free and running properly
 When:Either of the user hit 10 point first
 
 Then:Declare the respective user winner
-  
