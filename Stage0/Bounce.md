@@ -14,3 +14,12 @@ What happens when ball travels and bounces?
   the ball does not bounce back to the initial player
 
   Then -Increment player 1 count by 1
+  
+### Scenario:Kepping track of the score count
+
+Give:The game is error free and running properly
+
+When:Either of the user hit 10 point first
+
+Then:Declare the respective user winner
+  
